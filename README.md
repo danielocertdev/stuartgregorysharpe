@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I work with clients from all over the world to bui
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=telegram,java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light"/>
 </p>
 
 Feel free to explore these repositories to get a glimpse of my work and coding style.
