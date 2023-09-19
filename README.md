@@ -1,4 +1,4 @@
-# Stuart Sharpe 🚀
+# Stuart Gregory Sharpe 
 
 Hello, I'm Stuart! Passionate about technology and driven by innovation, I collaborate with clients globally to transform their visions into dynamic digital solutions.
 
@@ -15,7 +15,7 @@ With a vast repertoire of skills and experience, I specialize in:
 
 ---
 
-## 🔧 Technologies & Tools
+## 🚀 Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light" alt="Stuart Sharpe's Technology Stack"/>
