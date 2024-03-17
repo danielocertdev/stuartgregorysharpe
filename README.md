@@ -1,5 +1,5 @@
 # Clark
-## 💼 What I specialize in
+## What I specialize in
 With a vast repertoire of skills and experience, I specialize in:
 - **Web & Mobile App with AI Development**: Crafting responsive, user-centric applications.
 - **Backend(Python, ASP.NET, Node) Development**: Building and optimizing scalable backend infrastructures for seamless data flow.
@@ -7,7 +7,7 @@ With a vast repertoire of skills and experience, I specialize in:
 - **Web3**: Designing and implementing secure digital assets using blockchain technology.
 - **DevOps**: Streamlining and automating operational processes, ensuring rapid, reliable, and consistent deployments.
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light" alt="Stuart Sharpe's Technology Stack"/>
 </p>
