@@ -9,7 +9,7 @@ With a vast repertoire of skills and experience, I specialize in:
 
 ## Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light" alt="Stuart Sharpe's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,dart,flutter,react native,asp.net,python,django,php,laravel,nodejs,golang,ruby,figma&theme=light" alt="Stuart Sharpe's Technology Stack"/>
 </p>
 
 
