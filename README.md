@@ -1,4 +1,4 @@
-# Superman
+# Clark
 
 Hello, I'm Stuart! Passionate about technology and driven by innovation, I collaborate with clients globally to transform their visions into dynamic digital solutions.
 
